@@ -18,3 +18,5 @@ git push  origin master
 
 更新(远程-本地)
 git pull
+
+test IDEA提交
